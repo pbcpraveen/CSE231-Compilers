@@ -1,0 +1,2 @@
+(sub1 (negate (add1 24)))
+
